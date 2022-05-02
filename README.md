@@ -44,7 +44,7 @@
 
 - freelist结构
 
-![(./_free_list_and_pool.png)
+![(.\_free_list_and_pool.png)]
 
 - 整体
 
