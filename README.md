@@ -44,15 +44,15 @@
 
 - freelist结构
 
-![_free_list_and_pool](E:\Git\sgi_stl二级空间配置器移植\_free_list_and_pool.png)
+![(./_free_list_and_pool.png)
 
 - 整体
 
-![my_allocator](E:\Git\sgi_stl二级空间配置器移植\my_allocator.png)
+![](./my_allocator.png)
 
 - _S_chunk_alloc
 
-![_S_chunk_alloc](E:\Git\sgi_stl二级空间配置器移植\_S_chunk_alloc.png)
+![_S_chunk_alloc](./_S_chunk_alloc.png)
 
 
 
